@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/93459f11-facf-4ad2-81ab-04982c05ace7)<p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
@@ -188,6 +188,65 @@ This project outlines the implementation of on-premises Active Directory within 
 <p>
 <img src="https://github.com/user-attachments/assets/2e7d6fc3-ae8f-4f0f-9aa9-e144920f4284" width="550" alt="Disk Sanitization Steps" />
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/f82f2d3f-6c8b-4bb2-b4a2-b19d0399f0af" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/1192901d-675f-41e9-9779-db071b73febf" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/9b311aa2-741a-4f79-93d0-df6aa03fe689" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Log into `dc-1` and confirm that `client-1` has been added to the domain
+<p>
+<img src="https://github.com/user-attachments/assets/ccef2412-ac90-452e-8e82-53cd66784939" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
 
 
+## Setup Remote Desktop for non-administrative users on Client-1
+### Allow domain users to remote into other machines within the domain
+<p>
+<img src="https://github.com/user-attachments/assets/75ca36c0-e4d9-4da5-9391-8729010a99a2" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/35256afb-40c3-447d-a63f-d8704a272106" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
 
+### Enter the crenditals of the admin
+<p>
+<img src="https://github.com/user-attachments/assets/57965c41-9de2-4e55-a7fb-dc62c3709421" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/eb978960-9a83-4401-9ea2-778e9badf981" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+
+## Creating additional users
+### Within powershell ISE run the following script to create 1000 users
+[create_users](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1)
+<p>
+<img src="https://github.com/user-attachments/assets/eb978960-9a83-4401-9ea2-778e9badf981" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/3c378a64-598f-4a47-955a-460e9ea670dd" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Log in as one of the users
+<p>
+<img src="https://github.com/user-attachments/assets/5eefda18-69a1-4331-a75a-8c34ba75f248" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/2ad8949b-53e6-4f56-aef6-8e54a92b07ef" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/baa7feff-0498-4ca2-a20f-f45349d15e5d" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+# End of Project
