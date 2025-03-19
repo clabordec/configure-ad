@@ -81,18 +81,38 @@ This project outlines the implementation of on-premises Active Directory within 
 </p>
 <br />
 
+### Set the password for the DC(password: AdminSecurePassword123!!!)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/user-attachments/assets/8a411fdf-c4b1-4525-8bfb-7f56d416723a" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+### Uncheck the "Create DNS delegation" checkbox
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+### Make sure that the NetBIOS name is correct
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/user-attachments/assets/d44bed71-d8d1-40fa-83d2-43edd785ec0b" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+### Continue with setup
+<p>
+<img src="https://github.com/user-attachments/assets/24182c93-14be-4867-80b9-57d06263c24c" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/4ca8dd8b-b2fc-4fae-81f1-8bfd76b7c981" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Make sure that there are no errors present
+<p>
+<img src="https://github.com/user-attachments/assets/6a34590b-afc8-449f-a7c2-954a1afc41c8" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+
