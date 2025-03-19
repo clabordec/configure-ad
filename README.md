@@ -24,18 +24,27 @@ This project outlines the implementation of on-premises Active Directory within 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Install Active Directory
+- Create a Domain Admin user within the domain
+- Join Client-1 to your domain `mydomain.com`
+- Setup Remote Desktop for non-administrative users on Client-1
+- Create 1000 additional users and attempt to log into client-1 with one or more of the users
 
-<h2>Deployment and Configuration Steps</h2>
+<h1>Deployment and Configuration Steps</h1>
 
+## Install Active Directory(AD)
+### Login to DC-1 and install Active Directory Domain Services
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/630f3853-34d0-40fc-96c8-0c514537dad7" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/user-attachments/assets/790dd745-b585-4cf4-9bfd-200020deb681" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/134aca7b-cb48-4ecd-9dcc-5f8911865639" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/134aca7b-cb48-4ecd-9dcc-5f8911865639" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
