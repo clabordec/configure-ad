@@ -88,9 +88,6 @@ This project outlines the implementation of on-premises Active Directory within 
 <br />
 
 ### Uncheck the "Create DNS delegation" checkbox
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <br />
 
 ### Make sure that the NetBIOS name is correct
