@@ -41,12 +41,34 @@ This project outlines the implementation of on-premises Active Directory within 
 <img src="https://github.com/user-attachments/assets/790dd745-b585-4cf4-9bfd-200020deb681" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/134aca7b-cb48-4ecd-9dcc-5f8911865639" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5e19dc10-d17b-4a83-ac17-9ecf653a782a" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/134aca7b-cb48-4ecd-9dcc-5f8911865639" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c9fb39c4-cf59-430e-a1fb-1fc7c914ca7e" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/336f25e5-841d-4462-a5da-753ea893b6b8" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/e80a8758-9993-4788-9033-2467b5a8d63c" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/1a2a70d9-5942-48c0-b6bc-6f1c2d9c07b4" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/9144eff9-ac29-4639-945c-32e0e4586898" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/888fd07a-a669-4674-87c4-407f3f41d4da" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/758c1c28-d17e-4fdc-a07f-eea284c7fea1" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/0936fd50-21b2-4472-8295-b8b1c1b86255" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
