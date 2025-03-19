@@ -70,6 +70,17 @@ This project outlines the implementation of on-premises Active Directory within 
 <br />
 
 
+## Promote the VM as the DC(Domain Controller)
+### Click on the notification icon, then click "Promote this server to a domain controller"
+<br />
+
+### Create the domain by choosing the "Add a forest" option
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/d8414873-daa3-4daf-a50b-c156b02fc409" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
