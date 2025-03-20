@@ -30,6 +30,8 @@ This project outlines the implementation of on-premises Active Directory within 
 - Setup Remote Desktop for non-administrative users on Client-1
 - Create 1000 additional users and attempt to log into client-1 with one or more of the users
 
+<br />
+
 <h1>Deployment and Configuration Steps</h1>
 
 ## Install Active Directory(AD)
