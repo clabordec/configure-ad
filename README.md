@@ -250,6 +250,5 @@ This project outlines the implementation of on-premises Active Directory within 
 
 ---
 
-<br />
 
 # End of Project
