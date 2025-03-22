@@ -246,9 +246,7 @@ This project outlines the implementation of on-premises Active Directory within 
 <p>
 <img src="https://github.com/user-attachments/assets/baa7feff-0498-4ca2-a20f-f45349d15e5d" width="550" alt="Disk Sanitization Steps" />
 </p>
-<br />
 
 ---
-
 
 # End of Project
