@@ -35,7 +35,7 @@ This project outlines the implementation of on-premises Active Directory within 
 <h1>Deployment and Configuration Steps</h1>
 
 ## Install Active Directory(AD)
-### Login to DC-1 and install Active Directory Domain Services
+### Login to `DC-1` and install Active Directory Domain Services
 <p>
 <img src="https://github.com/user-attachments/assets/630f3853-34d0-40fc-96c8-0c514537dad7" width="550" alt="Disk Sanitization Steps"/>
 </p>
